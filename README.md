@@ -7,7 +7,7 @@ Here's a sample README file for your project:
 
 # Tamil Gaming Network
 
-Welcome to the **Tamil Gaming Network** website! This project serves as a hub for Tamil-speaking gamers, offering resources, game updates, and an active community. 
+Welcome to the **[Tamil Gaming Network](https://tamilgamingnetwork.github.io/)** website! This project serves as a hub for Tamil-speaking gamers, offering resources, game updates, and an active community. 
 
 ## What the Project Does
 Tamil Gaming Network provides a central platform for gaming enthusiasts, offering everything from game-related news and announcements to free game DLC downloads. We cater especially to Tamil speakers, creating a welcoming community space with the latest updates and discussions across various games.
