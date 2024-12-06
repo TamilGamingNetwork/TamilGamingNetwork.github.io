@@ -372,6 +372,18 @@ img {
   width: 100%;
 }
 
+.about__buttons {
+  position: relative;
+   top: 0px;
+   left: -1.5px;
+  display: grid;
+  column-gap: .5rem;
+}
+
+.about__buttons .button {
+  padding: .75rem 0;
+}
+
 /*===== SKILLS =====*/
 
 .gpay__img {
